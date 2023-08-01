@@ -6,3 +6,5 @@ Currently only runs one animation of the prim algorythm adapted to maze generati
 Usage: 
 - install dependences (pip install -r requirements.txt)
 - execute maze.py   (python maze.py)
+
+![sample maze](/screenshot.png)
